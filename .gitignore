@@ -1,0 +1,23 @@
+## Ignore Visual Studio / .NET build artifacts
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio & IDE files
+.vs/
+.idea/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.userprefs
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini

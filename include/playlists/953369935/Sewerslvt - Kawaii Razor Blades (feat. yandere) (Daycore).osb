@@ -1,0 +1,2426 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+Sprite,Background,Centre,"k4w411r4z0rbl4d3s.jpg",320,240
+ F,0,-500,0,0,0.8
+ S,0,0,,0.3333333
+ F,0,271068,319068,0.8,0
+Sprite,Background,Centre,"sb\vig.png",320,240
+ F,0,-93,9,1
+ F,0,9,47735,1
+ S,0,45186,47735,0.6567273,0.6509091
+ F,0,47735,331735,1
+Sprite,Background,Centre,"sb\black.png",0,0
+ M,0,0,45244,320,240,318.2545,240
+ F,0,9,43774,1,0
+Sprite,Background,Centre,"sb\black.png",0,0
+ M,0,271068,,320,240
+ F,0,271068,316244,0,1
+ F,0,316244,331735,1
+Sprite,Background,Centre,"sb\black.png",0,0
+ M,0,180715,,320,240
+ F,0,180715,182127,0,0.4538182
+ F,0,182127,201891,0.4538182,0.4567273
+ F,0,201891,203303,0.4567273,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,45186,,1
+ F,0,45186,45715,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,67774,,1
+ F,0,67774,68303,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,90362,,1
+ F,0,90362,90891,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,112950,,1
+ F,0,112950,113479,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,135538,,1
+ F,0,135538,136067,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,158127,,1
+ F,0,158127,158656,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,180715,,1
+ F,0,180715,181244,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,203303,,1
+ F,0,203303,203832,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,225891,,1
+ F,0,225891,226420,1,0
+Sprite,Background,Centre,"sb\white.jpg",0,0
+ S,0,248480,,1
+ F,0,248480,249009,1,0
+ M,0,272245,,321.7455,245.2364
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,271068,,1
+ F,0,271068,271597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,46597,,320,240
+ S,0,46597,,2.076364
+ F,0,46597,46950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,48009,,320,240
+ S,0,48009,,2.076364
+ F,0,48009,48362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,49421,,320,240
+ S,0,49421,,2.076364
+ F,0,49421,49774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,50833,,320,240
+ S,0,50833,,2.076364
+ F,0,50833,51186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,52244,,320,240
+ S,0,52244,,2.076364
+ F,0,52244,52597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,53656,,320,240
+ S,0,53656,,2.076364
+ F,0,53656,54009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,55068,,320,240
+ S,0,55068,,2.076364
+ F,0,55068,55421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,56480,,320,240
+ S,0,56480,,2.076364
+ F,0,56480,56833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,59303,,320,240
+ S,0,59303,,2.076364
+ F,0,59303,59656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,60715,,320,240
+ S,0,60715,,2.076364
+ F,0,60715,61068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,62127,,320,240
+ S,0,62127,,2.076364
+ F,0,62127,62480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,63538,,320,240
+ S,0,63538,,2.076364
+ F,0,63538,63891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,64950,,320,240
+ S,0,64950,,2.076364
+ F,0,64950,65303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,66362,,320,240
+ S,0,66362,,2.076364
+ F,0,66362,66715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,67774,,320,240
+ S,0,67774,,2.076364
+ F,0,67774,68127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,69186,,320,240
+ S,0,69186,,2.076364
+ F,0,69186,69539,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,69891,,320,240
+ S,0,69891,,2.076364
+ F,0,69891,70244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,70597,,320,240
+ S,0,70597,,2.076364
+ F,0,70597,70950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,72009,,320,240
+ S,0,72009,,2.076364
+ F,0,72009,72362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,72715,,320,240
+ S,0,72715,,2.076364
+ F,0,72715,73068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,73421,,320,240
+ S,0,73421,,2.076364
+ F,0,73421,73774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,74833,,320,240
+ S,0,74833,,2.076364
+ F,0,74833,75186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,75538,,320,240
+ S,0,75538,,2.076364
+ F,0,75538,75891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,76244,,320,240
+ S,0,76244,,2.076364
+ F,0,76244,76597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,77656,,320,240
+ S,0,77656,,2.076364
+ F,0,77656,78009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,78362,,320,240
+ S,0,78362,,2.076364
+ F,0,78362,78715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,79068,,320,240
+ S,0,79068,,2.076364
+ F,0,79068,79421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,80480,,320,240
+ S,0,80480,,2.076364
+ F,0,80480,80833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,81186,,320,240
+ S,0,81186,,2.076364
+ F,0,81186,81539,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,81891,,320,240
+ S,0,81891,,2.076364
+ F,0,81891,82244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,83303,,320,240
+ S,0,83303,,2.076364
+ F,0,83303,83656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,84009,,320,240
+ S,0,84009,,2.076364
+ F,0,84009,84362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,84715,,320,240
+ S,0,84715,,2.076364
+ F,0,84715,85068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,86127,,320,240
+ S,0,86127,,2.076364
+ F,0,86127,86480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,86833,,320,240
+ S,0,86833,,2.076364
+ F,0,86833,87186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,87538,,320,240
+ S,0,87538,,2.076364
+ F,0,87538,87891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,88950,,320,240
+ S,0,88950,,2.076364
+ F,0,88950,89303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,91774,,320,240
+ S,0,91774,,2.076364
+ F,0,91774,92127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,93186,,320,240
+ S,0,93186,,2.076364
+ F,0,93186,93539,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,94597,,320,240
+ S,0,94597,,2.076364
+ F,0,94597,94950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,96009,,320,240
+ S,0,96009,,2.076364
+ F,0,96009,96362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,97421,,320,240
+ S,0,97421,,2.076364
+ F,0,97421,97774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,98833,,320,240
+ S,0,98833,,2.076364
+ F,0,98833,99186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,100244,,320,240
+ S,0,100244,,2.076364
+ F,0,100244,100597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,101656,,320,240
+ S,0,101656,,2.076364
+ F,0,101656,102009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,103068,,320,240
+ S,0,103068,,2.076364
+ F,0,103068,103421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,104480,,320,240
+ S,0,104480,,2.076364
+ F,0,104480,104833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,105891,,320,240
+ S,0,105891,,2.076364
+ F,0,105891,106244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,107303,,320,240
+ S,0,107303,,2.076364
+ F,0,107303,107656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,108715,,320,240
+ S,0,108715,,2.076364
+ F,0,108715,109068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,110127,,320,240
+ S,0,110127,,2.076364
+ F,0,110127,110480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,111538,,320,240
+ S,0,111538,,2.076364
+ F,0,111538,111891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,112950,,320,240
+ S,0,112950,,2.076364
+ F,0,112950,113303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,113656,,320,240
+ S,0,113656,,2.076364
+ F,0,113656,114009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,114362,,320,240
+ S,0,114362,,2.076364
+ F,0,114362,114715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,115068,,320,240
+ S,0,115068,,2.076364
+ F,0,115068,115421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,115774,,320,240
+ S,0,115774,,2.076364
+ F,0,115774,116127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,116480,,320,240
+ S,0,116480,,2.076364
+ F,0,116480,116833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,117186,,320,240
+ S,0,117186,,2.076364
+ F,0,117186,117539,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,117891,,320,240
+ S,0,117891,,2.076364
+ F,0,117891,118244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,118597,,320,240
+ S,0,118597,,2.076364
+ F,0,118597,118950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,119303,,320,240
+ S,0,119303,,2.076364
+ F,0,119303,119656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,120009,,320,240
+ S,0,120009,,2.076364
+ F,0,120009,120362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,120715,,320,240
+ S,0,120715,,2.076364
+ F,0,120715,121068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,121421,,320,240
+ S,0,121421,,2.076364
+ F,0,121421,121774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,122127,,320,240
+ S,0,122127,,2.076364
+ F,0,122127,122480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,122833,,320,240
+ S,0,122833,,2.076364
+ F,0,122833,123186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,123538,,320,240
+ S,0,123538,,2.076364
+ F,0,123538,123891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,124244,,320,240
+ S,0,124244,,2.076364
+ F,0,124244,124597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,124950,,320,240
+ S,0,124950,,2.076364
+ F,0,124950,125303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,125656,,320,240
+ S,0,125656,,2.076364
+ F,0,125656,126009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,126362,,320,240
+ S,0,126362,,2.076364
+ F,0,126362,126715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,127068,,320,240
+ S,0,127068,,2.076364
+ F,0,127068,127421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,127774,,320,240
+ S,0,127774,,2.076364
+ F,0,127774,128127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,128480,,320,240
+ S,0,128480,,2.076364
+ F,0,128480,128833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,129186,,320,240
+ S,0,129186,,2.076364
+ F,0,129186,129539,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,129891,,320,240
+ S,0,129891,,2.076364
+ F,0,129891,130244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,130597,,320,240
+ S,0,130597,,2.076364
+ F,0,130597,130950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,131303,,320,240
+ S,0,131303,,2.076364
+ F,0,131303,131656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,132009,,320,240
+ S,0,132009,,2.076364
+ F,0,132009,132362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,132715,,320,240
+ S,0,132715,,2.076364
+ F,0,132715,133068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,133244,,320,240
+ S,0,133244,,2.076364
+ F,0,133244,133597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,133774,,320,240
+ S,0,133774,,2.076364
+ F,0,133774,134127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,134303,,320,240
+ S,0,134303,,2.076364
+ F,0,134303,134656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,134833,,320,240
+ S,0,134833,,2.076364
+ F,0,134833,135186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,136950,,320,240
+ S,0,136950,,2.076364
+ F,0,136950,137303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,138362,,320,240
+ S,0,138362,,2.076364
+ F,0,138362,138715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,139774,,320,240
+ S,0,139774,,2.076364
+ F,0,139774,140127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,141186,,320,240
+ S,0,141186,,2.076364
+ F,0,141186,141539,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,142597,,320,240
+ S,0,142597,,2.076364
+ F,0,142597,142950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,144009,,320,240
+ S,0,144009,,2.076364
+ F,0,144009,144362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,145421,,320,240
+ S,0,145421,,2.076364
+ F,0,145421,145774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,146833,,320,240
+ S,0,146833,,2.076364
+ F,0,146833,147186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,148244,,320,240
+ S,0,148244,,2.076364
+ F,0,148244,148597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,149656,,320,240
+ S,0,149656,,2.076364
+ F,0,149656,150009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,151068,,320,240
+ S,0,151068,,2.076364
+ F,0,151068,151421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,152480,,320,240
+ S,0,152480,,2.076364
+ F,0,152480,152833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,153891,,320,240
+ S,0,153891,,2.076364
+ F,0,153891,154244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,155303,,320,240
+ S,0,155303,,2.076364
+ F,0,155303,155656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,156715,,320,240
+ S,0,156715,,2.076364
+ F,0,156715,157068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,158127,,320,240
+ S,0,158127,,2.076364
+ F,0,158127,158480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,158833,,320,240
+ S,0,158833,,2.076364
+ F,0,158833,159186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,159538,,320,240
+ S,0,159538,,2.076364
+ F,0,159538,159891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,160244,,320,240
+ S,0,160244,,2.076364
+ F,0,160244,160597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,160950,,320,240
+ S,0,160950,,2.076364
+ F,0,160950,161303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,161656,,320,240
+ S,0,161656,,2.076364
+ F,0,161656,162009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,162362,,320,240
+ S,0,162362,,2.076364
+ F,0,162362,162715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,163068,,320,240
+ S,0,163068,,2.076364
+ F,0,163068,163421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,163774,,320,240
+ S,0,163774,,2.076364
+ F,0,163774,164127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,164480,,320,240
+ S,0,164480,,2.076364
+ F,0,164480,164833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,165186,,320,240
+ S,0,165186,,2.076364
+ F,0,165186,165539,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,165891,,320,240
+ S,0,165891,,2.076364
+ F,0,165891,166244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,166597,,320,240
+ S,0,166597,,2.076364
+ F,0,166597,166950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,167303,,320,240
+ S,0,167303,,2.076364
+ F,0,167303,167656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,168009,,320,240
+ S,0,168009,,2.076364
+ F,0,168009,168362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,168715,,320,240
+ S,0,168715,,2.076364
+ F,0,168715,169068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,169421,,320,240
+ S,0,169421,,2.076364
+ F,0,169421,169774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,170127,,320,240
+ S,0,170127,,2.076364
+ F,0,170127,170480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,170833,,320,240
+ S,0,170833,,2.076364
+ F,0,170833,171186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,171538,,320,240
+ S,0,171538,,2.076364
+ F,0,171538,171891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,172244,,320,240
+ S,0,172244,,2.076364
+ F,0,172244,172597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,172950,,320,240
+ S,0,172950,,2.076364
+ F,0,172950,173303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,173656,,320,240
+ S,0,173656,,2.076364
+ F,0,173656,174009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,174362,,320,240
+ S,0,174362,,2.076364
+ F,0,174362,174715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,175068,,320,240
+ S,0,175068,,2.076364
+ F,0,175068,175421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,175774,,320,240
+ S,0,175774,,2.076364
+ F,0,175774,176127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,176480,,320,240
+ S,0,176480,,2.076364
+ F,0,176480,176833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,177185,,320,240
+ S,0,177185,,2.076364
+ F,0,177185,177538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,177891,,320,240
+ S,0,177891,,2.076364
+ F,0,177891,178244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,178421,,320,240
+ S,0,178421,,2.076364
+ F,0,178421,178774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,178950,,320,240
+ S,0,178950,,2.076364
+ F,0,178950,179303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,179480,,320,240
+ S,0,179480,,2.076364
+ F,0,179480,179833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,180009,,320,240
+ S,0,180009,,2.076364
+ F,0,180009,180362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,204009,,320,240
+ S,0,204009,,2.076364
+ F,0,204009,204362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,204715,,320,240
+ S,0,204715,,2.076364
+ F,0,204715,205068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,205421,,320,240
+ S,0,205421,,2.076364
+ F,0,205421,205774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,206127,,320,240
+ S,0,206127,,2.076364
+ F,0,206127,206480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,206833,,320,240
+ S,0,206833,,2.076364
+ F,0,206833,207186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,207538,,320,240
+ S,0,207538,,2.076364
+ F,0,207538,207891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,208244,,320,240
+ S,0,208244,,2.076364
+ F,0,208244,208597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,208950,,320,240
+ S,0,208950,,2.076364
+ F,0,208950,209303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,209656,,320,240
+ S,0,209656,,2.076364
+ F,0,209656,210009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,210362,,320,240
+ S,0,210362,,2.076364
+ F,0,210362,210715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,211068,,320,240
+ S,0,211068,,2.076364
+ F,0,211068,211421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,211774,,320,240
+ S,0,211774,,2.076364
+ F,0,211774,212127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,212480,,320,240
+ S,0,212480,,2.076364
+ F,0,212480,212833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,213185,,320,240
+ S,0,213185,,2.076364
+ F,0,213185,213538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,213891,,320,240
+ S,0,213891,,2.076364
+ F,0,213891,214244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,214597,,320,240
+ S,0,214597,,2.076364
+ F,0,214597,214950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,215303,,320,240
+ S,0,215303,,2.076364
+ F,0,215303,215656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,216009,,320,240
+ S,0,216009,,2.076364
+ F,0,216009,216362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,216715,,320,240
+ S,0,216715,,2.076364
+ F,0,216715,217068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,217421,,320,240
+ S,0,217421,,2.076364
+ F,0,217421,217774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,218127,,320,240
+ S,0,218127,,2.076364
+ F,0,218127,218480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,218833,,320,240
+ S,0,218833,,2.076364
+ F,0,218833,219186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,219538,,320,240
+ S,0,219538,,2.076364
+ F,0,219538,219891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,220244,,320,240
+ S,0,220244,,2.076364
+ F,0,220244,220597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,220950,,320,240
+ S,0,220950,,2.076364
+ F,0,220950,221303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,221656,,320,240
+ S,0,221656,,2.076364
+ F,0,221656,222009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,222362,,320,240
+ S,0,222362,,2.076364
+ F,0,222362,222715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,223068,,320,240
+ S,0,223068,,2.076364
+ F,0,223068,223421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,223774,,320,240
+ S,0,223774,,2.076364
+ F,0,223774,224127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,226244,,320,240
+ S,0,226244,,2.076364
+ F,0,226244,226597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,226597,,320,240
+ S,0,226597,,2.076364
+ F,0,226597,226950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,226950,,320,240
+ S,0,226950,,2.076364
+ F,0,226950,227303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,227303,,320,240
+ S,0,227303,,2.076364
+ F,0,227303,227656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,227656,,320,240
+ S,0,227656,,2.076364
+ F,0,227656,228009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,228009,,320,240
+ S,0,228009,,2.076364
+ F,0,228009,228362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,228362,,320,240
+ S,0,228362,,2.076364
+ F,0,228362,228715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,228715,,320,240
+ S,0,228715,,2.076364
+ F,0,228715,229068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,229068,,320,240
+ S,0,229068,,2.076364
+ F,0,229068,229421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,229421,,320,240
+ S,0,229421,,2.076364
+ F,0,229421,229774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,229774,,320,240
+ S,0,229774,,2.076364
+ F,0,229774,230127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,230127,,320,240
+ S,0,230127,,2.076364
+ F,0,230127,230480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,230480,,320,240
+ S,0,230480,,2.076364
+ F,0,230480,230833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,230833,,320,240
+ S,0,230833,,2.076364
+ F,0,230833,231186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,231185,,320,240
+ S,0,231185,,2.076364
+ F,0,231185,231538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,231538,,320,240
+ S,0,231538,,2.076364
+ F,0,231538,231891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,231891,,320,240
+ S,0,231891,,2.076364
+ F,0,231891,232244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,232244,,320,240
+ S,0,232244,,2.076364
+ F,0,232244,232597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,232597,,320,240
+ S,0,232597,,2.076364
+ F,0,232597,232950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,232950,,320,240
+ S,0,232950,,2.076364
+ F,0,232950,233303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,233303,,320,240
+ S,0,233303,,2.076364
+ F,0,233303,233656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,233656,,320,240
+ S,0,233656,,2.076364
+ F,0,233656,234009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,234009,,320,240
+ S,0,234009,,2.076364
+ F,0,234009,234362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,234362,,320,240
+ S,0,234362,,2.076364
+ F,0,234362,234715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,234715,,320,240
+ S,0,234715,,2.076364
+ F,0,234715,235068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,235068,,320,240
+ S,0,235068,,2.076364
+ F,0,235068,235421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,235421,,320,240
+ S,0,235421,,2.076364
+ F,0,235421,235774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,235774,,320,240
+ S,0,235774,,2.076364
+ F,0,235774,236127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,236127,,320,240
+ S,0,236127,,2.076364
+ F,0,236127,236480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,236480,,320,240
+ S,0,236480,,2.076364
+ F,0,236480,236833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,236833,,320,240
+ S,0,236833,,2.076364
+ F,0,236833,237186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,237185,,320,240
+ S,0,237185,,2.076364
+ F,0,237185,237538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,237538,,320,240
+ S,0,237538,,2.076364
+ F,0,237538,237891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,237891,,320,240
+ S,0,237891,,2.076364
+ F,0,237891,238244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,238244,,320,240
+ S,0,238244,,2.076364
+ F,0,238244,238597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,238597,,320,240
+ S,0,238597,,2.076364
+ F,0,238597,238950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,238950,,320,240
+ S,0,238950,,2.076364
+ F,0,238950,239303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,239303,,320,240
+ S,0,239303,,2.076364
+ F,0,239303,239656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,239656,,320,240
+ S,0,239656,,2.076364
+ F,0,239656,240009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,240009,,320,240
+ S,0,240009,,2.076364
+ F,0,240009,240362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,240362,,320,240
+ S,0,240362,,2.076364
+ F,0,240362,240715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,240715,,320,240
+ S,0,240715,,2.076364
+ F,0,240715,241068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,241068,,320,240
+ S,0,241068,,2.076364
+ F,0,241068,241421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,241421,,320,240
+ S,0,241421,,2.076364
+ F,0,241421,241774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,241774,,320,240
+ S,0,241774,,2.076364
+ F,0,241774,242127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,242127,,320,240
+ S,0,242127,,2.076364
+ F,0,242127,242480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,242480,,320,240
+ S,0,242480,,2.076364
+ F,0,242480,242833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,242833,,320,240
+ S,0,242833,,2.076364
+ F,0,242833,243186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,243185,,320,240
+ S,0,243185,,2.076364
+ F,0,243185,243538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,243538,,320,240
+ S,0,243538,,2.076364
+ F,0,243538,243891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,243891,,320,240
+ S,0,243891,,2.076364
+ F,0,243891,244244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,244244,,320,240
+ S,0,244244,,2.076364
+ F,0,244244,244597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,244597,,320,240
+ S,0,244597,,2.076364
+ F,0,244597,244950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,244950,,320,240
+ S,0,244950,,2.076364
+ F,0,244950,245303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,245303,,320,240
+ S,0,245303,,2.076364
+ F,0,245303,245656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,245656,,320,240
+ S,0,245656,,2.076364
+ F,0,245656,246009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,246009,,320,240
+ S,0,246009,,2.076364
+ F,0,246009,246362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,246362,,320,240
+ S,0,246362,,2.076364
+ F,0,246362,246715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,246715,,320,240
+ S,0,246715,,2.076364
+ F,0,246715,247068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,247068,,320,240
+ S,0,247068,,2.076364
+ F,0,247068,247421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,247421,,320,240
+ S,0,247421,,2.076364
+ F,0,247421,247774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,247774,,320,240
+ S,0,247774,,2.076364
+ F,0,247774,248127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,248127,,320,240
+ S,0,248127,,2.076364
+ F,0,248127,248480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,248833,,320,240
+ S,0,248833,,2.076364
+ F,0,248833,249186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,249185,,320,240
+ S,0,249185,,2.076364
+ F,0,249185,249538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,249538,,320,240
+ S,0,249538,,2.076364
+ F,0,249538,249891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,249891,,320,240
+ S,0,249891,,2.076364
+ F,0,249891,250244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,250244,,320,240
+ S,0,250244,,2.076364
+ F,0,250244,250597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,250597,,320,240
+ S,0,250597,,2.076364
+ F,0,250597,250950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,250950,,320,240
+ S,0,250950,,2.076364
+ F,0,250950,251303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,251303,,320,240
+ S,0,251303,,2.076364
+ F,0,251303,251656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,251656,,320,240
+ S,0,251656,,2.076364
+ F,0,251656,252009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,252009,,320,240
+ S,0,252009,,2.076364
+ F,0,252009,252362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,252362,,320,240
+ S,0,252362,,2.076364
+ F,0,252362,252715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,252715,,320,240
+ S,0,252715,,2.076364
+ F,0,252715,253068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,253068,,320,240
+ S,0,253068,,2.076364
+ F,0,253068,253421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,253421,,320,240
+ S,0,253421,,2.076364
+ F,0,253421,253774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,253774,,320,240
+ S,0,253774,,2.076364
+ F,0,253774,254127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,254127,,320,240
+ S,0,254127,,2.076364
+ F,0,254127,254480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,254480,,320,240
+ S,0,254480,,2.076364
+ F,0,254480,254833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,254833,,320,240
+ S,0,254833,,2.076364
+ F,0,254833,255186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,255185,,320,240
+ S,0,255185,,2.076364
+ F,0,255185,255538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,255538,,320,240
+ S,0,255538,,2.076364
+ F,0,255538,255891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,255891,,320,240
+ S,0,255891,,2.076364
+ F,0,255891,256244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,256244,,320,240
+ S,0,256244,,2.076364
+ F,0,256244,256597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,256597,,320,240
+ S,0,256597,,2.076364
+ F,0,256597,256950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,256950,,320,240
+ S,0,256950,,2.076364
+ F,0,256950,257303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,257303,,320,240
+ S,0,257303,,2.076364
+ F,0,257303,257656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,257656,,320,240
+ S,0,257656,,2.076364
+ F,0,257656,258009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,258009,,320,240
+ S,0,258009,,2.076364
+ F,0,258009,258362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,258362,,320,240
+ S,0,258362,,2.076364
+ F,0,258362,258715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,258715,,320,240
+ S,0,258715,,2.076364
+ F,0,258715,259068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,259068,,320,240
+ S,0,259068,,2.076364
+ F,0,259068,259421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,259421,,320,240
+ S,0,259421,,2.076364
+ F,0,259421,259774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,259774,,320,240
+ S,0,259774,,2.076364
+ F,0,259774,260127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,260127,,320,240
+ S,0,260127,,2.076364
+ F,0,260127,260480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,260480,,320,240
+ S,0,260480,,2.076364
+ F,0,260480,260833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,260833,,320,240
+ S,0,260833,,2.076364
+ F,0,260833,261186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,261185,,320,240
+ S,0,261185,,2.076364
+ F,0,261185,261538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,261538,,320,240
+ S,0,261538,,2.076364
+ F,0,261538,261891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,261891,,320,240
+ S,0,261891,,2.076364
+ F,0,261891,262244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,262244,,320,240
+ S,0,262244,,2.076364
+ F,0,262244,262597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,262597,,320,240
+ S,0,262597,,2.076364
+ F,0,262597,262950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,262950,,320,240
+ S,0,262950,,2.076364
+ F,0,262950,263303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,263303,,320,240
+ S,0,263303,,2.076364
+ F,0,263303,263656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,263656,,320,240
+ S,0,263656,,2.076364
+ F,0,263656,264009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,264009,,320,240
+ S,0,264009,,2.076364
+ F,0,264009,264362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,264362,,320,240
+ S,0,264362,,2.076364
+ F,0,264362,264715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,264715,,320,240
+ S,0,264715,,2.076364
+ F,0,264715,265068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,265068,,320,240
+ S,0,265068,,2.076364
+ F,0,265068,265421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,265421,,320,240
+ S,0,265421,,2.076364
+ F,0,265421,265774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,265774,,320,240
+ S,0,265774,,2.076364
+ F,0,265774,266127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,266127,,320,240
+ S,0,266127,,2.076364
+ F,0,266127,266480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,266480,,320,240
+ S,0,266480,,2.076364
+ F,0,266480,266833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,266833,,320,240
+ S,0,266833,,2.076364
+ F,0,266833,267186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,267185,,320,240
+ S,0,267185,,2.076364
+ F,0,267185,267538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,267538,,320,240
+ S,0,267538,,2.076364
+ F,0,267538,267891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,267891,,320,240
+ S,0,267891,,2.076364
+ F,0,267891,268244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,268244,,320,240
+ S,0,268244,,2.076364
+ F,0,268244,268597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,268597,,320,240
+ S,0,268597,,2.076364
+ F,0,268597,268950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,268950,,320,240
+ S,0,268950,,2.076364
+ F,0,268950,269303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,269303,,320,240
+ S,0,269303,,2.076364
+ F,0,269303,269656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,269656,,320,240
+ S,0,269656,,2.076364
+ F,0,269656,270009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,270009,,320,240
+ S,0,270009,,2.076364
+ F,0,270009,270362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,270362,,320,240
+ S,0,270362,,2.076364
+ F,0,270362,270715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,270715,,320,240
+ S,0,270715,,2.076364
+ F,0,270715,271068,1,0
+Sprite,Background,Centre,"k4w411r4z0rbl4d3s.jpg",320,240
+ F,0,-500,0,0,0.8
+ S,0,0,,0.3333333
+ F,0,271068,271568,0.8,0
+Sprite,Background,Centre,"k4w411r4z0rbl4d3s.jpg",320,240
+ F,0,-500,0,0,0.8
+ S,0,0,,0.3333333
+ F,0,271068,319068,0.8,0
+Sprite,Background,Centre,"sb\vig.png",320,240
+ F,0,-93,9,1
+ F,0,9,47735,1
+ S,0,45186,47735,0.6567273,0.6509091
+ F,0,47735,331735,1
+Sprite,Background,Centre,"sb\black.png",0,0
+ M,0,0,45244,320,240,318.2545,240
+ F,0,9,43774,1,0
+Sprite,Background,Centre,"sb\black.png",0,0
+ M,0,271068,,320,240
+ F,0,271068,316244,0,1
+ F,0,316244,331735,1
+Sprite,Background,Centre,"sb\black.png",0,0
+ M,0,180715,,320,240
+ F,0,180715,182127,0,0.4538182
+ F,0,182127,201891,0.4538182,0.4567273
+ F,0,201891,203303,0.4567273,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,45186,,1
+ F,0,45186,45715,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,67774,,1
+ F,0,67774,68303,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,90362,,1
+ F,0,90362,90891,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,112950,,1
+ F,0,112950,113479,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,135538,,1
+ F,0,135538,136067,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,158127,,1
+ F,0,158127,158656,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,180715,,1
+ F,0,180715,181244,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,203303,,1
+ F,0,203303,203832,1,0
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,225891,,1
+ F,0,225891,226420,1,0
+Sprite,Background,Centre,"sb\white.jpg",0,0
+ S,0,248480,,1
+ F,0,248480,249009,1,0
+ M,0,272245,,321.7455,245.2364
+Sprite,Background,Centre,"sb\white.jpg",320,240
+ S,0,271068,,1
+ F,0,271068,271597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,46597,,320,240
+ S,0,46597,,2.076364
+ F,0,46597,46950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,48009,,320,240
+ S,0,48009,,2.076364
+ F,0,48009,48362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,49421,,320,240
+ S,0,49421,,2.076364
+ F,0,49421,49774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,50833,,320,240
+ S,0,50833,,2.076364
+ F,0,50833,51186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,52244,,320,240
+ S,0,52244,,2.076364
+ F,0,52244,52597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,53656,,320,240
+ S,0,53656,,2.076364
+ F,0,53656,54009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,55068,,320,240
+ S,0,55068,,2.076364
+ F,0,55068,55421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,56480,,320,240
+ S,0,56480,,2.076364
+ F,0,56480,56833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,59303,,320,240
+ S,0,59303,,2.076364
+ F,0,59303,59656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,60715,,320,240
+ S,0,60715,,2.076364
+ F,0,60715,61068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,62127,,320,240
+ S,0,62127,,2.076364
+ F,0,62127,62480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,63538,,320,240
+ S,0,63538,,2.076364
+ F,0,63538,63891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,64950,,320,240
+ S,0,64950,,2.076364
+ F,0,64950,65303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,66362,,320,240
+ S,0,66362,,2.076364
+ F,0,66362,66715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,67774,,320,240
+ S,0,67774,,2.076364
+ F,0,67774,68127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,69186,,320,240
+ S,0,69186,,2.076364
+ F,0,69186,69539,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,69891,,320,240
+ S,0,69891,,2.076364
+ F,0,69891,70244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,70597,,320,240
+ S,0,70597,,2.076364
+ F,0,70597,70950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,72009,,320,240
+ S,0,72009,,2.076364
+ F,0,72009,72362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,72715,,320,240
+ S,0,72715,,2.076364
+ F,0,72715,73068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,73421,,320,240
+ S,0,73421,,2.076364
+ F,0,73421,73774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,74833,,320,240
+ S,0,74833,,2.076364
+ F,0,74833,75186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,75538,,320,240
+ S,0,75538,,2.076364
+ F,0,75538,75891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,76244,,320,240
+ S,0,76244,,2.076364
+ F,0,76244,76597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,77656,,320,240
+ S,0,77656,,2.076364
+ F,0,77656,78009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,78362,,320,240
+ S,0,78362,,2.076364
+ F,0,78362,78715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,79068,,320,240
+ S,0,79068,,2.076364
+ F,0,79068,79421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,80480,,320,240
+ S,0,80480,,2.076364
+ F,0,80480,80833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,81186,,320,240
+ S,0,81186,,2.076364
+ F,0,81186,81539,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,81891,,320,240
+ S,0,81891,,2.076364
+ F,0,81891,82244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,83303,,320,240
+ S,0,83303,,2.076364
+ F,0,83303,83656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,84009,,320,240
+ S,0,84009,,2.076364
+ F,0,84009,84362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,84715,,320,240
+ S,0,84715,,2.076364
+ F,0,84715,85068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,86127,,320,240
+ S,0,86127,,2.076364
+ F,0,86127,86480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,86833,,320,240
+ S,0,86833,,2.076364
+ F,0,86833,87186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,87538,,320,240
+ S,0,87538,,2.076364
+ F,0,87538,87891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,88950,,320,240
+ S,0,88950,,2.076364
+ F,0,88950,89303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,91774,,320,240
+ S,0,91774,,2.076364
+ F,0,91774,92127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,93186,,320,240
+ S,0,93186,,2.076364
+ F,0,93186,93539,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,94597,,320,240
+ S,0,94597,,2.076364
+ F,0,94597,94950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,96009,,320,240
+ S,0,96009,,2.076364
+ F,0,96009,96362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,97421,,320,240
+ S,0,97421,,2.076364
+ F,0,97421,97774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,98833,,320,240
+ S,0,98833,,2.076364
+ F,0,98833,99186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,100244,,320,240
+ S,0,100244,,2.076364
+ F,0,100244,100597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,101656,,320,240
+ S,0,101656,,2.076364
+ F,0,101656,102009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,103068,,320,240
+ S,0,103068,,2.076364
+ F,0,103068,103421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,104480,,320,240
+ S,0,104480,,2.076364
+ F,0,104480,104833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,105891,,320,240
+ S,0,105891,,2.076364
+ F,0,105891,106244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,107303,,320,240
+ S,0,107303,,2.076364
+ F,0,107303,107656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,108715,,320,240
+ S,0,108715,,2.076364
+ F,0,108715,109068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,110127,,320,240
+ S,0,110127,,2.076364
+ F,0,110127,110480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,111538,,320,240
+ S,0,111538,,2.076364
+ F,0,111538,111891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,112950,,320,240
+ S,0,112950,,2.076364
+ F,0,112950,113303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,113656,,320,240
+ S,0,113656,,2.076364
+ F,0,113656,114009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,114362,,320,240
+ S,0,114362,,2.076364
+ F,0,114362,114715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,115068,,320,240
+ S,0,115068,,2.076364
+ F,0,115068,115421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,115774,,320,240
+ S,0,115774,,2.076364
+ F,0,115774,116127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,116480,,320,240
+ S,0,116480,,2.076364
+ F,0,116480,116833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,117186,,320,240
+ S,0,117186,,2.076364
+ F,0,117186,117539,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,117891,,320,240
+ S,0,117891,,2.076364
+ F,0,117891,118244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,118597,,320,240
+ S,0,118597,,2.076364
+ F,0,118597,118950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,119303,,320,240
+ S,0,119303,,2.076364
+ F,0,119303,119656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,120009,,320,240
+ S,0,120009,,2.076364
+ F,0,120009,120362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,120715,,320,240
+ S,0,120715,,2.076364
+ F,0,120715,121068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,121421,,320,240
+ S,0,121421,,2.076364
+ F,0,121421,121774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,122127,,320,240
+ S,0,122127,,2.076364
+ F,0,122127,122480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,122833,,320,240
+ S,0,122833,,2.076364
+ F,0,122833,123186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,123538,,320,240
+ S,0,123538,,2.076364
+ F,0,123538,123891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,124244,,320,240
+ S,0,124244,,2.076364
+ F,0,124244,124597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,124950,,320,240
+ S,0,124950,,2.076364
+ F,0,124950,125303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,125656,,320,240
+ S,0,125656,,2.076364
+ F,0,125656,126009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,126362,,320,240
+ S,0,126362,,2.076364
+ F,0,126362,126715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,127068,,320,240
+ S,0,127068,,2.076364
+ F,0,127068,127421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,127774,,320,240
+ S,0,127774,,2.076364
+ F,0,127774,128127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,128480,,320,240
+ S,0,128480,,2.076364
+ F,0,128480,128833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,129186,,320,240
+ S,0,129186,,2.076364
+ F,0,129186,129539,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,129891,,320,240
+ S,0,129891,,2.076364
+ F,0,129891,130244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,130597,,320,240
+ S,0,130597,,2.076364
+ F,0,130597,130950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,131303,,320,240
+ S,0,131303,,2.076364
+ F,0,131303,131656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,132009,,320,240
+ S,0,132009,,2.076364
+ F,0,132009,132362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,132715,,320,240
+ S,0,132715,,2.076364
+ F,0,132715,133068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,133244,,320,240
+ S,0,133244,,2.076364
+ F,0,133244,133597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,133774,,320,240
+ S,0,133774,,2.076364
+ F,0,133774,134127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,134303,,320,240
+ S,0,134303,,2.076364
+ F,0,134303,134656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,134833,,320,240
+ S,0,134833,,2.076364
+ F,0,134833,135186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,136950,,320,240
+ S,0,136950,,2.076364
+ F,0,136950,137303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,138362,,320,240
+ S,0,138362,,2.076364
+ F,0,138362,138715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,139774,,320,240
+ S,0,139774,,2.076364
+ F,0,139774,140127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,141186,,320,240
+ S,0,141186,,2.076364
+ F,0,141186,141539,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,142597,,320,240
+ S,0,142597,,2.076364
+ F,0,142597,142950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,144009,,320,240
+ S,0,144009,,2.076364
+ F,0,144009,144362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,145421,,320,240
+ S,0,145421,,2.076364
+ F,0,145421,145774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,146833,,320,240
+ S,0,146833,,2.076364
+ F,0,146833,147186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,148244,,320,240
+ S,0,148244,,2.076364
+ F,0,148244,148597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,149656,,320,240
+ S,0,149656,,2.076364
+ F,0,149656,150009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,151068,,320,240
+ S,0,151068,,2.076364
+ F,0,151068,151421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,152480,,320,240
+ S,0,152480,,2.076364
+ F,0,152480,152833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,153891,,320,240
+ S,0,153891,,2.076364
+ F,0,153891,154244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,155303,,320,240
+ S,0,155303,,2.076364
+ F,0,155303,155656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,156715,,320,240
+ S,0,156715,,2.076364
+ F,0,156715,157068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,158127,,320,240
+ S,0,158127,,2.076364
+ F,0,158127,158480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,158833,,320,240
+ S,0,158833,,2.076364
+ F,0,158833,159186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,159538,,320,240
+ S,0,159538,,2.076364
+ F,0,159538,159891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,160244,,320,240
+ S,0,160244,,2.076364
+ F,0,160244,160597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,160950,,320,240
+ S,0,160950,,2.076364
+ F,0,160950,161303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,161656,,320,240
+ S,0,161656,,2.076364
+ F,0,161656,162009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,162362,,320,240
+ S,0,162362,,2.076364
+ F,0,162362,162715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,163068,,320,240
+ S,0,163068,,2.076364
+ F,0,163068,163421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,163774,,320,240
+ S,0,163774,,2.076364
+ F,0,163774,164127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,164480,,320,240
+ S,0,164480,,2.076364
+ F,0,164480,164833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,165186,,320,240
+ S,0,165186,,2.076364
+ F,0,165186,165539,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,165891,,320,240
+ S,0,165891,,2.076364
+ F,0,165891,166244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,166597,,320,240
+ S,0,166597,,2.076364
+ F,0,166597,166950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,167303,,320,240
+ S,0,167303,,2.076364
+ F,0,167303,167656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,168009,,320,240
+ S,0,168009,,2.076364
+ F,0,168009,168362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,168715,,320,240
+ S,0,168715,,2.076364
+ F,0,168715,169068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,169421,,320,240
+ S,0,169421,,2.076364
+ F,0,169421,169774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,170127,,320,240
+ S,0,170127,,2.076364
+ F,0,170127,170480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,170833,,320,240
+ S,0,170833,,2.076364
+ F,0,170833,171186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,171538,,320,240
+ S,0,171538,,2.076364
+ F,0,171538,171891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,172244,,320,240
+ S,0,172244,,2.076364
+ F,0,172244,172597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,172950,,320,240
+ S,0,172950,,2.076364
+ F,0,172950,173303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,173656,,320,240
+ S,0,173656,,2.076364
+ F,0,173656,174009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,174362,,320,240
+ S,0,174362,,2.076364
+ F,0,174362,174715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,175068,,320,240
+ S,0,175068,,2.076364
+ F,0,175068,175421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,175774,,320,240
+ S,0,175774,,2.076364
+ F,0,175774,176127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,176480,,320,240
+ S,0,176480,,2.076364
+ F,0,176480,176833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,177185,,320,240
+ S,0,177185,,2.076364
+ F,0,177185,177538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,177891,,320,240
+ S,0,177891,,2.076364
+ F,0,177891,178244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,178421,,320,240
+ S,0,178421,,2.076364
+ F,0,178421,178774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,178950,,320,240
+ S,0,178950,,2.076364
+ F,0,178950,179303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,179480,,320,240
+ S,0,179480,,2.076364
+ F,0,179480,179833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,180009,,320,240
+ S,0,180009,,2.076364
+ F,0,180009,180362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,204009,,320,240
+ S,0,204009,,2.076364
+ F,0,204009,204362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,204715,,320,240
+ S,0,204715,,2.076364
+ F,0,204715,205068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,205421,,320,240
+ S,0,205421,,2.076364
+ F,0,205421,205774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,206127,,320,240
+ S,0,206127,,2.076364
+ F,0,206127,206480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,206833,,320,240
+ S,0,206833,,2.076364
+ F,0,206833,207186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,207538,,320,240
+ S,0,207538,,2.076364
+ F,0,207538,207891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,208244,,320,240
+ S,0,208244,,2.076364
+ F,0,208244,208597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,208950,,320,240
+ S,0,208950,,2.076364
+ F,0,208950,209303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,209656,,320,240
+ S,0,209656,,2.076364
+ F,0,209656,210009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,210362,,320,240
+ S,0,210362,,2.076364
+ F,0,210362,210715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,211068,,320,240
+ S,0,211068,,2.076364
+ F,0,211068,211421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,211774,,320,240
+ S,0,211774,,2.076364
+ F,0,211774,212127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,212480,,320,240
+ S,0,212480,,2.076364
+ F,0,212480,212833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,213185,,320,240
+ S,0,213185,,2.076364
+ F,0,213185,213538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,213891,,320,240
+ S,0,213891,,2.076364
+ F,0,213891,214244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,214597,,320,240
+ S,0,214597,,2.076364
+ F,0,214597,214950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,215303,,320,240
+ S,0,215303,,2.076364
+ F,0,215303,215656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,216009,,320,240
+ S,0,216009,,2.076364
+ F,0,216009,216362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,216715,,320,240
+ S,0,216715,,2.076364
+ F,0,216715,217068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,217421,,320,240
+ S,0,217421,,2.076364
+ F,0,217421,217774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,218127,,320,240
+ S,0,218127,,2.076364
+ F,0,218127,218480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,218833,,320,240
+ S,0,218833,,2.076364
+ F,0,218833,219186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,219538,,320,240
+ S,0,219538,,2.076364
+ F,0,219538,219891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,220244,,320,240
+ S,0,220244,,2.076364
+ F,0,220244,220597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,220950,,320,240
+ S,0,220950,,2.076364
+ F,0,220950,221303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,221656,,320,240
+ S,0,221656,,2.076364
+ F,0,221656,222009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,222362,,320,240
+ S,0,222362,,2.076364
+ F,0,222362,222715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,223068,,320,240
+ S,0,223068,,2.076364
+ F,0,223068,223421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,223774,,320,240
+ S,0,223774,,2.076364
+ F,0,223774,224127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,226244,,320,240
+ S,0,226244,,2.076364
+ F,0,226244,226597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,226597,,320,240
+ S,0,226597,,2.076364
+ F,0,226597,226950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,226950,,320,240
+ S,0,226950,,2.076364
+ F,0,226950,227303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,227303,,320,240
+ S,0,227303,,2.076364
+ F,0,227303,227656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,227656,,320,240
+ S,0,227656,,2.076364
+ F,0,227656,228009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,228009,,320,240
+ S,0,228009,,2.076364
+ F,0,228009,228362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,228362,,320,240
+ S,0,228362,,2.076364
+ F,0,228362,228715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,228715,,320,240
+ S,0,228715,,2.076364
+ F,0,228715,229068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,229068,,320,240
+ S,0,229068,,2.076364
+ F,0,229068,229421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,229421,,320,240
+ S,0,229421,,2.076364
+ F,0,229421,229774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,229774,,320,240
+ S,0,229774,,2.076364
+ F,0,229774,230127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,230127,,320,240
+ S,0,230127,,2.076364
+ F,0,230127,230480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,230480,,320,240
+ S,0,230480,,2.076364
+ F,0,230480,230833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,230833,,320,240
+ S,0,230833,,2.076364
+ F,0,230833,231186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,231185,,320,240
+ S,0,231185,,2.076364
+ F,0,231185,231538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,231538,,320,240
+ S,0,231538,,2.076364
+ F,0,231538,231891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,231891,,320,240
+ S,0,231891,,2.076364
+ F,0,231891,232244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,232244,,320,240
+ S,0,232244,,2.076364
+ F,0,232244,232597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,232597,,320,240
+ S,0,232597,,2.076364
+ F,0,232597,232950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,232950,,320,240
+ S,0,232950,,2.076364
+ F,0,232950,233303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,233303,,320,240
+ S,0,233303,,2.076364
+ F,0,233303,233656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,233656,,320,240
+ S,0,233656,,2.076364
+ F,0,233656,234009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,234009,,320,240
+ S,0,234009,,2.076364
+ F,0,234009,234362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,234362,,320,240
+ S,0,234362,,2.076364
+ F,0,234362,234715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,234715,,320,240
+ S,0,234715,,2.076364
+ F,0,234715,235068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,235068,,320,240
+ S,0,235068,,2.076364
+ F,0,235068,235421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,235421,,320,240
+ S,0,235421,,2.076364
+ F,0,235421,235774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,235774,,320,240
+ S,0,235774,,2.076364
+ F,0,235774,236127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,236127,,320,240
+ S,0,236127,,2.076364
+ F,0,236127,236480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,236480,,320,240
+ S,0,236480,,2.076364
+ F,0,236480,236833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,236833,,320,240
+ S,0,236833,,2.076364
+ F,0,236833,237186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,237185,,320,240
+ S,0,237185,,2.076364
+ F,0,237185,237538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,237538,,320,240
+ S,0,237538,,2.076364
+ F,0,237538,237891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,237891,,320,240
+ S,0,237891,,2.076364
+ F,0,237891,238244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,238244,,320,240
+ S,0,238244,,2.076364
+ F,0,238244,238597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,238597,,320,240
+ S,0,238597,,2.076364
+ F,0,238597,238950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,238950,,320,240
+ S,0,238950,,2.076364
+ F,0,238950,239303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,239303,,320,240
+ S,0,239303,,2.076364
+ F,0,239303,239656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,239656,,320,240
+ S,0,239656,,2.076364
+ F,0,239656,240009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,240009,,320,240
+ S,0,240009,,2.076364
+ F,0,240009,240362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,240362,,320,240
+ S,0,240362,,2.076364
+ F,0,240362,240715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,240715,,320,240
+ S,0,240715,,2.076364
+ F,0,240715,241068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,241068,,320,240
+ S,0,241068,,2.076364
+ F,0,241068,241421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,241421,,320,240
+ S,0,241421,,2.076364
+ F,0,241421,241774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,241774,,320,240
+ S,0,241774,,2.076364
+ F,0,241774,242127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,242127,,320,240
+ S,0,242127,,2.076364
+ F,0,242127,242480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,242480,,320,240
+ S,0,242480,,2.076364
+ F,0,242480,242833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,242833,,320,240
+ S,0,242833,,2.076364
+ F,0,242833,243186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,243185,,320,240
+ S,0,243185,,2.076364
+ F,0,243185,243538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,243538,,320,240
+ S,0,243538,,2.076364
+ F,0,243538,243891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,243891,,320,240
+ S,0,243891,,2.076364
+ F,0,243891,244244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,244244,,320,240
+ S,0,244244,,2.076364
+ F,0,244244,244597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,244597,,320,240
+ S,0,244597,,2.076364
+ F,0,244597,244950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,244950,,320,240
+ S,0,244950,,2.076364
+ F,0,244950,245303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,245303,,320,240
+ S,0,245303,,2.076364
+ F,0,245303,245656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,245656,,320,240
+ S,0,245656,,2.076364
+ F,0,245656,246009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,246009,,320,240
+ S,0,246009,,2.076364
+ F,0,246009,246362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,246362,,320,240
+ S,0,246362,,2.076364
+ F,0,246362,246715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,246715,,320,240
+ S,0,246715,,2.076364
+ F,0,246715,247068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,247068,,320,240
+ S,0,247068,,2.076364
+ F,0,247068,247421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,247421,,320,240
+ S,0,247421,,2.076364
+ F,0,247421,247774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,247774,,320,240
+ S,0,247774,,2.076364
+ F,0,247774,248127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,248127,,320,240
+ S,0,248127,,2.076364
+ F,0,248127,248480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,248833,,320,240
+ S,0,248833,,2.076364
+ F,0,248833,249186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,249185,,320,240
+ S,0,249185,,2.076364
+ F,0,249185,249538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,249538,,320,240
+ S,0,249538,,2.076364
+ F,0,249538,249891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,249891,,320,240
+ S,0,249891,,2.076364
+ F,0,249891,250244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,250244,,320,240
+ S,0,250244,,2.076364
+ F,0,250244,250597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,250597,,320,240
+ S,0,250597,,2.076364
+ F,0,250597,250950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,250950,,320,240
+ S,0,250950,,2.076364
+ F,0,250950,251303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,251303,,320,240
+ S,0,251303,,2.076364
+ F,0,251303,251656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,251656,,320,240
+ S,0,251656,,2.076364
+ F,0,251656,252009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,252009,,320,240
+ S,0,252009,,2.076364
+ F,0,252009,252362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,252362,,320,240
+ S,0,252362,,2.076364
+ F,0,252362,252715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,252715,,320,240
+ S,0,252715,,2.076364
+ F,0,252715,253068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,253068,,320,240
+ S,0,253068,,2.076364
+ F,0,253068,253421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,253421,,320,240
+ S,0,253421,,2.076364
+ F,0,253421,253774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,253774,,320,240
+ S,0,253774,,2.076364
+ F,0,253774,254127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,254127,,320,240
+ S,0,254127,,2.076364
+ F,0,254127,254480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,254480,,320,240
+ S,0,254480,,2.076364
+ F,0,254480,254833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,254833,,320,240
+ S,0,254833,,2.076364
+ F,0,254833,255186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,255185,,320,240
+ S,0,255185,,2.076364
+ F,0,255185,255538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,255538,,320,240
+ S,0,255538,,2.076364
+ F,0,255538,255891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,255891,,320,240
+ S,0,255891,,2.076364
+ F,0,255891,256244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,256244,,320,240
+ S,0,256244,,2.076364
+ F,0,256244,256597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,256597,,320,240
+ S,0,256597,,2.076364
+ F,0,256597,256950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,256950,,320,240
+ S,0,256950,,2.076364
+ F,0,256950,257303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,257303,,320,240
+ S,0,257303,,2.076364
+ F,0,257303,257656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,257656,,320,240
+ S,0,257656,,2.076364
+ F,0,257656,258009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,258009,,320,240
+ S,0,258009,,2.076364
+ F,0,258009,258362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,258362,,320,240
+ S,0,258362,,2.076364
+ F,0,258362,258715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,258715,,320,240
+ S,0,258715,,2.076364
+ F,0,258715,259068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,259068,,320,240
+ S,0,259068,,2.076364
+ F,0,259068,259421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,259421,,320,240
+ S,0,259421,,2.076364
+ F,0,259421,259774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,259774,,320,240
+ S,0,259774,,2.076364
+ F,0,259774,260127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,260127,,320,240
+ S,0,260127,,2.076364
+ F,0,260127,260480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,260480,,320,240
+ S,0,260480,,2.076364
+ F,0,260480,260833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,260833,,320,240
+ S,0,260833,,2.076364
+ F,0,260833,261186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,261185,,320,240
+ S,0,261185,,2.076364
+ F,0,261185,261538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,261538,,320,240
+ S,0,261538,,2.076364
+ F,0,261538,261891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,261891,,320,240
+ S,0,261891,,2.076364
+ F,0,261891,262244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,262244,,320,240
+ S,0,262244,,2.076364
+ F,0,262244,262597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,262597,,320,240
+ S,0,262597,,2.076364
+ F,0,262597,262950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,262950,,320,240
+ S,0,262950,,2.076364
+ F,0,262950,263303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,263303,,320,240
+ S,0,263303,,2.076364
+ F,0,263303,263656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,263656,,320,240
+ S,0,263656,,2.076364
+ F,0,263656,264009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,264009,,320,240
+ S,0,264009,,2.076364
+ F,0,264009,264362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,264362,,320,240
+ S,0,264362,,2.076364
+ F,0,264362,264715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,264715,,320,240
+ S,0,264715,,2.076364
+ F,0,264715,265068,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,265068,,320,240
+ S,0,265068,,2.076364
+ F,0,265068,265421,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,265421,,320,240
+ S,0,265421,,2.076364
+ F,0,265421,265774,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,265774,,320,240
+ S,0,265774,,2.076364
+ F,0,265774,266127,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,266127,,320,240
+ S,0,266127,,2.076364
+ F,0,266127,266480,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,266480,,320,240
+ S,0,266480,,2.076364
+ F,0,266480,266833,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,266833,,320,240
+ S,0,266833,,2.076364
+ F,0,266833,267186,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,267185,,320,240
+ S,0,267185,,2.076364
+ F,0,267185,267538,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,267538,,320,240
+ S,0,267538,,2.076364
+ F,0,267538,267891,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,267891,,320,240
+ S,0,267891,,2.076364
+ F,0,267891,268244,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,268244,,320,240
+ S,0,268244,,2.076364
+ F,0,268244,268597,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,268597,,320,240
+ S,0,268597,,2.076364
+ F,0,268597,268950,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,268950,,320,240
+ S,0,268950,,2.076364
+ F,0,268950,269303,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,269303,,320,240
+ S,0,269303,,2.076364
+ F,0,269303,269656,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,269656,,320,240
+ S,0,269656,,2.076364
+ F,0,269656,270009,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,270009,,320,240
+ S,0,270009,,2.076364
+ F,0,270009,270362,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,270362,,320,240
+ S,0,270362,,2.076364
+ F,0,270362,270715,1,0
+Sprite,Background,Centre,"sb\hai.png",0,0
+ M,0,270715,,320,240
+ S,0,270715,,2.076364
+ F,0,270715,271068,1,0
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples

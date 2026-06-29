@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Matrix-Rei2D.csproj" />
+  <Project Path="../Rei2D-cs/Rei2D/Rei2D.csproj" />
+</Solution>
